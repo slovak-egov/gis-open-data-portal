@@ -1,0 +1,257 @@
+{
+  "error": {
+    "noResults": "Žiadne výsledky...",
+    "pageNotFound": "Stránka sa nenašla...",
+    "invalidSearch": "Chyba vo vyhľadávaní. Skúste zadať iný výraz.",
+    "searchInput": "Vyhľadávacie pole",
+    "selectInput": "Pole s možnosťami",
+    "textInput": "Textové pole",
+    "numberInput": "Číselné pole",
+    "textArea": "Textový blok",
+    "search": {
+      "unhandledState": "Neznámy stav hľadania: {state}",
+      "failedToFetch": "Nepodarilo sa načítať dáta"
+    },
+    "general": {
+      "title": "Chyba",
+      "heading": "Vyskytla sa chyba",
+      "back": "Späť na",
+      "homepage": "hlavnú stránku"
+    }
+  },
+  "general": {
+    "yes": "Áno",
+    "no": "Nie"
+  },
+  "app": {
+    "name": "OpenData portál",
+    "acronym": "ODP",
+    "cookies": "Táto stránka používa cookies určené na zlepšenie používania. Používaním tejto stránky súhlasíte s ukladaním cookies na disk vášho zariadenia.",
+    "cookiesAccept": "Súhlasím"
+  },
+  "org": {
+    "acronym": "Otvorené dáta",
+    "address": {
+      "street": "Ulica",
+      "city": "Mesto",
+      "postalCode": "PSČ",
+      "country": "Slovensko"
+    }
+  },
+  "navigation": {
+    "menu": "Menu",
+    "home": "Domov",
+    "map": "Mapa",
+    "datasets": "Datasety",
+    "developer": "OpenAPI",
+    "help": {
+      "main": "Pomoc",
+      "manuals": "Používateľské príručky",
+      "info": "Informácie o poskytovaní",
+      "report": "Nahlásiť problém"
+    },
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "up": "Hore",
+    "links": {
+      "heading": "Priame odkazy",
+      "home": "Domovská stránka obce",
+      "datasets": "Zoznam datasetov",
+      "map": "Interaktívna mapa",
+      "support": "Pomoc a podpora",
+      "report": "Nahlásiť problém",
+      "contact": "Kontakt",
+      "manuals": "Používateľské príručky",
+      "openData": "Informácie o poskytovaní otvorených dát",
+      "openAPI": "OpenAPI pre vývojárov"
+    },
+    "provider": "Prevázkovateľom služby je",
+    "idsk": {
+      "text": "Vytvorené v súlade s",
+      "link": "Jednotným dizajn manuálom elektronických služieb"
+    },
+    "navigation": {
+      "provider": "Prevádzkovateľ",
+      "privacy": "Ochrana súkromia",
+      "accessibility": "Informácie o prístupnosti",
+      "sitemap": "Mapa stránok"
+    }
+  },
+  "ribbon": {
+    "button": {
+      "text": "Oficiálna stránka",
+      "link": "verejnej správy SR"
+    },
+    "domain": {
+      "heading": "Doména gov.sk je oficiálna",
+      "text": "Toto je oficiálna webová stránka orgánu verejnej moci Slovenskej republiky. Oficiálne stránky využívajú najmä doménu gov.sk.",
+      "link": "Odkazy na jednotlivé webové sídla orgánov verejnej moci nájdete na tomto odkaze"
+    },
+    "security": {
+      "heading": "Táto stránka je zabezpečená",
+      "text": "Buďte pozorní a vždy sa uistite, že zdieľate informácie iba cez zabezpečenú webovú stránku verejnej správy SR. Zabezpečená stránka vždy začína https:// pred názvom domény webového sídla."
+    }
+  },
+  "index": {
+    "title": "Domov",
+    "heading": "Otvorený prístup k mestským dátam",
+    "description": "Vitajte na stránke otvorených dát",
+    "search": "Vyhľadať v OpenData",
+    "info": "Dozvedieť sa",
+    "more": "viac o",
+    "streets": "Ulice",
+    "datasets": "Zoznam otvorených datasetov:",
+    "roads": "Miestne komunikácie a ich stav",
+    "sideways": "Chodníky a verejné priestranstvá",
+    "furniture": "Mobiliár",
+    "greenery": "Stromy, zeleň a kríky",
+    "signs": "Dopravné značenie",
+    "lights": "Verejné osvetlenie",
+    "bus": "Autobusové zastávky",
+    "graves": "Hrobové miesta",
+    "cyclo": "Cyklotrasy",
+    "energy": "Elektrické siete",
+    "parking": "Parkovacie miesta",
+    "cadastre": "Katastrálna mapa",
+    "inlets": "Vpusty",
+    "plan": "Územný plán",
+    "waste": "Komunálny odpad"
+  },
+  "search": {
+    "title": "Vyhľadávanie",
+    "heading": "Vyhľadávanie",
+    "headingWithResults": "Výsledky vyhľadávania pre výraz",
+    "search": "Vyhľadať v OpenData",
+    "newSearch": "Nové vyhľadávanie",
+    "trySearch": "Do poľa vyhľadávania napíšte hľadaný výraz.",
+    "results": {
+      "server": "Počet výsledkov na serveri: {count}",
+      "client": "Počet zobrazených výsledkov: {count}",
+      "fetch": "Načítať ďaľšie výsledky",
+      "none": "Žiadne výsledky.",
+      "all": "všetky"
+    }
+  },
+  "map": {
+    "title": "Mapa",
+    "heading": "Mapa",
+    "breadcrumb": "Interaktívna mapa",
+    "description": "V mapovom komponente sú zobrazené objekty datasetu nad ortofotomapou s vysokým rozlíšením."
+  },
+  "datasets": {
+    "title": "Datasety",
+    "dataset": "Dataset",
+    "breadcrumb": "Zoznam datasetov",
+    "heading": "Datasety",
+    "search": "Vyhľadať v datasetoch",
+    "datasets": "datasetov",
+    "objects": "objektov",
+    "updated": "Posledná aktualizácia údajov",
+    "lastupdated": "Posledná aktualizácia"
+  },
+  "feature": {
+    "code": "ID: {code}"
+  },
+  "dataset": {
+    "datasetUrl": "URL: ",
+    "download": "Stiahnutie datasetu: ",
+    "showOnMap": "Zobraziť na mape",
+    "search": "Vyhľadať v datasete",
+    "updatedAt": "Dátum poslednej aktualizácie datasetu: {date}",
+    "validatedAt": "Dátum platnosti datasetu: {date}",
+    "url": {
+      "updatedAt": "Platnosť súboru: {date}"
+    }
+  },
+  "developer": {
+    "title": "OpenAPI",
+    "breadcrumb": "OpenAPI",
+    "heading": "OpenAPI pre vývojárov",
+    "description": ""
+  },
+  "contact": {
+    "title": "Kontakt",
+    "breadcrumb": "Kontakt",
+    "heading": "Kontakt",
+    "description": "",
+    "address": "Adresa",
+    "otherInfo": "Ostatné informácie",
+    "ico": "IČO",
+    "dic": "DIČ",
+    "phoneNumber": "Telefónne číslo",
+    "email": "E-mail",
+    "helpLink": "Nahlásiť problém",
+    "webPage": "Webová stránka"
+  },
+  "manuals": {
+    "title": "Manuály",
+    "breadcrumb": "Používateľské príručky",
+    "heading": "Používateľské príručky",
+    "description": ""
+  },
+  "info": {
+    "title": "Informácie",
+    "breadcrumb": "Informácie",
+    "heading": "Informácie o poskytovaní\notvorených dát",
+    "description": ""
+  },
+  "report": {
+    "title": "Nahlásiť problém",
+    "breadcrumb": "Nahlásiť problém",
+    "heading": "Nahlásiť problém",
+    "description": ""
+  },
+  "support": {
+    "title": "Pomoc",
+    "breadcrumb": "Pomoc a podpora",
+    "heading": "Pomoc a podpora",
+    "description": ""
+  },
+  "provider": {
+    "title": "Prevádzkovateľ",
+    "breadcrumb": "Prevádzkovateľ",
+    "heading": "Prevádzkovateľ",
+    "description": ""
+  },
+  "privacy": {
+    "title": "Ochrana súkromia",
+    "breadcrumb": "Ochrana súkromia",
+    "heading": "Ochrana súkromia",
+    "description": ""
+  },
+  "accessibility": {
+    "title": "Prístupnosť",
+    "breadcrumb": "Prístupnosť",
+    "heading": "Informácie o prístupnosti",
+    "description": ""
+  },
+  "sitemap": {
+    "title": "Mapa stránok",
+    "breadcrumb": "Mapa stránok",
+    "heading": "Mapa stránok",
+    "description": "",
+    "provider": "Prevádzkovateľ",
+    "privacy": "Ochrana súkromia",
+    "accessibility": "Informácie o prístupnosti",
+    "sitemap": "Mapa stránok",
+    "manuals": "Používateľské príručky",
+    "info": "Informácie o poskytovaní",
+    "report": "Nahlásiť problém",
+    "search": "Vyhľadať v OpenData",
+    "forms": "Formuláre",
+    "home": "Domovská stránka obce",
+    "contact": "Kontakt",
+    "datasets": "Zoznam otvorených datasetov",
+    "developer": "OpenAPI",
+    "support": "Pomoc a podpora",
+    "map": "Interaktívna mapa",
+    "dataset": "Dataset"
+  },
+  "notFound": {
+    "title": "Stránka nenájdená",
+    "heading": "Stránka nenájdená",
+    "back": "Späť na",
+    "homepage": "hlavnú stránku"
+  }
+}
